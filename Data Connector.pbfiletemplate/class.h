@@ -18,6 +18,6 @@
 
 - (NSString *)applicationDocumentsDirectory;
 
-+ («PROJECTNAME» *)sharedInstance;
++ («FILEBASENAMEASIDENTIFIER» *)sharedInstance;
 
 @end
