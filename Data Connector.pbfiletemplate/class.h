@@ -3,7 +3,7 @@
 //  «PROJECTNAME»
 //
 //  Created by «FULLUSERNAME» on «DATE».
-//  Copyright «YEAR» «ORGANIZATIONNAME». All rights reserved.
+//  Copyright «YEAR» «ORGANIZATIONNAME». Some Rights Reserved.
 //
 
 #import <Foundation/Foundation.h>
