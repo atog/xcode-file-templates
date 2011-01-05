@@ -1,5 +1,5 @@
 {
 	MainTemplateFile = "class.m";
 	CounterpartTemplateFile = "class.h";
-	Description = "This file contains all the basic code to make CoreData connection.\n\nFollowing features are included:\n\n- managed object context\n- managed object mode\n- undo manager\n- persistent store coordinator";
+	Description = "This file contains all the basic code to make CoreData connection.\n\nFollowing features are included:\n\n- managed object context\n- managed object model\n- undo manager\n- persistent store coordinator";
 }
