@@ -9,7 +9,11 @@
 #import <Foundation/Foundation.h>
 #import <CoreData/CoreData.h>
 
-@interface «FILEBASENAMEASIDENTIFIER» : NSObject
+@interface «FILEBASENAMEASIDENTIFIER» : NSObject {
+  NSManagedObjectContext *managedObjectContext_;
+  NSManagedObjectModel *managedObjectModel_;
+  NSPersistentStoreCoordinator *persistentStoreCoordinator_;
+}
 
 @property (nonatomic, retain, readonly) NSManagedObjectContext *managedObjectContext;
 @property (nonatomic, retain, readonly) NSManagedObjectModel *managedObjectModel;

@@ -8,14 +8,7 @@
 
 «OPTIONALHEADERIMPORTLINE»
 
-static DataConnector *singleton«FILEBASENAMEASIDENTIFIER» = nil;
-
-@interface «FILEBASENAMEASIDENTIFIER» () {
-	NSManagedObjectContext *managedObjectContext_;
-    NSManagedObjectModel *managedObjectModel_;
-    NSPersistentStoreCoordinator *persistentStoreCoordinator_;
-}
-@end
+static «FILEBASENAMEASIDENTIFIER» *singleton«FILEBASENAMEASIDENTIFIER» = nil;
 
 @implementation «FILEBASENAMEASIDENTIFIER»
 
