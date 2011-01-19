@@ -6,6 +6,14 @@
 //  Copyright «YEAR» «ORGANIZATIONNAME». Some Rights Reserved.
 //
 
+/*
+ * How to use this file:
+ *  1. Find your .pch file
+ *  2. Import this file
+ *  3. Make sure to import this file after UIKit and Foundation
+ *  4. Use the functions in your app.
+ *
+ */
 
 // Blatantly picked up from: http://blog.wilshipley.com/2005/10/pimp-my-code-interlude-free-code.html
 static inline BOOL IsEmpty(id thing) {
