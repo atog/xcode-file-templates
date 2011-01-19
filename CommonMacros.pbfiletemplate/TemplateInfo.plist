@@ -1,4 +1,4 @@
 {
 	MainTemplateFile = "CommonMacros.h";
-	Description = "This file contains some handy functions to use in your app.\n\nThe simplest way to use it is to include in your .pch, just make sure to import it after Foundation and UIkit.\nFollowing features are included:\n\n- managed object context\n- managed object model\n- undo manager\n- persistent store coordinator";
+	Description = "This file contains some handy functions to use in your app.\n\nThe simplest way to use it is to include in your .pch, just make sure to import it after Foundation and UIKit.";
 }
